@@ -1,0 +1,21 @@
+{
+  "name": "sro-premium-farmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "got": "^9.4.0",
+    "tesseract.js": "^1.0.9",
+    "tough-cookie": "^2.5.0"
+  }
+}

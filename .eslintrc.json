@@ -1,0 +1,20 @@
+{
+  "extends": "airbnb-base",
+  "plugins": [
+    "import"
+  ],
+  "rules": {
+    "import/no-unresolved": false
+  },
+  "globals": {
+    "expect": true,
+    "process": true,
+    "describe": true,
+    "before": true,
+    "after": true,
+    "beforeEach": true,
+    "suite": true,
+    "test": true,
+    "it": true
+  }
+}
